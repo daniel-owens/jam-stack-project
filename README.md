@@ -1,1 +1,0 @@
-# jam-stack-project
